@@ -1,6 +1,6 @@
 # Cartão de Aniversário
 
-Este é um simples cartão de aniversário para o aniversariante do mês da empresa. A página contém uma mensagem de feliz aniversário e uma imagem.
+“Parabéns pelo seu dia, Vaniza Amazonas! Sua colaboração diária faz toda a diferença para nossa equipe. Que seu aniversário seja tão especial quanto a sua contribuição para nosso trabalho em equipe e nosso dia a dia.”
 
 ## Estrutura do Projeto
 
